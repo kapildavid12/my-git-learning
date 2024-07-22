@@ -1,1 +1,2 @@
 Login & Registration feature
+Add beautification in login page

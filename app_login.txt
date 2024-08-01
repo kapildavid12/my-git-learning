@@ -1,2 +1,3 @@
 Login & Registration feature
 Add beautification in login page
+New UX design

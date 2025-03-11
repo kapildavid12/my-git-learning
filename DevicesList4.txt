@@ -1,4 +1,4 @@
-Samsung:
+This is NOT Samsung:
 M1
 M2
 M3

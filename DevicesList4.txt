@@ -1,4 +1,4 @@
-Samsung:
+Samsung Lower end:
 M1
 M2
 M3

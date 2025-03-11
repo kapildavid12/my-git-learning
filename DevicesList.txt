@@ -1,4 +1,1 @@
-FOS5 CSM:
-Octave
-Lidar
-Cupcake
+Devices

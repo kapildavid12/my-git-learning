@@ -2,5 +2,3 @@ New Delhi
 Mumbai
 Tamil nadu
 Bengaluru
-
-This file provides the city details in India

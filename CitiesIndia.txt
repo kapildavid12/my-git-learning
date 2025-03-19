@@ -2,6 +2,7 @@ New Delhi
 Mumbai
 Tamil nadu
 Bengaluru
+Kolkata
 
 
 This is the list of Indian cities.
